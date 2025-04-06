@@ -1,0 +1,1 @@
+# globetrek-delete-page
